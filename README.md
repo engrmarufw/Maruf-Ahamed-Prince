@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Maruf Ahamed Prince</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer & Lead Generation Expert<br>- 📚 I'm currently learning React Native<br>- 📫 How to reach me <b>engrmarufw@gmail.com</b><br>-⚡ Fun fact I think I am funny.</p>
+<p align="left">I'm <b><mark>Maruf Ahamed Prince</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer<br>- 📚 I'm currently learning React Native<br>- 📫 How to reach me <b>engrmarufw@gmail.com</b><br>-⚡ Fun fact I think I am funny.</p>
 
 ###
 
