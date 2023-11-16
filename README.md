@@ -23,7 +23,7 @@
   <a href="https://wa.me/8801315560101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/engrmarufw" target="_blank">
+<!--   <a href="https://t.me/engrmarufw" target="_blank"> -->
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" width="33" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="28" width="33" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="28" width="33" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="28" width="33" alt="socketio logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="28" width="33" alt="socketio logo"  /> -->
 </div>
 
 ###
